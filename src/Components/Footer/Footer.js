@@ -1,7 +1,7 @@
 import './Footer.css'
 function Footer() {
     return (
-        <div class="footer fixed-bottom">
+        <div className="footer fixed-bottom">
             Copyright &#169;FunWithCoding. All rights Reserved.
         </div>
     )
